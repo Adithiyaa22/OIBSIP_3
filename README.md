@@ -22,7 +22,7 @@ Develop a website to convert Celsius to Fahrenheit temperatures.
 ![Conversion Website Preview](screenshot.jpg)
 
 ## Author
-[Your Name] - [Your Email] - [Your LinkedIn] - [Your Portfolio]
+Adithiyaa - adithiyaaaiml2005@gmail.com - www.linkedin.com/in/adithiyaa-s22
 
 Feel free to reach out for questions, feedback, or collaboration!
 
