@@ -12,13 +12,14 @@ Develop a website to convert Celsius to Fahrenheit temperatures.
 ## Technologies Used
 - HTML5 for website structure and content.
 - CSS3 for layout, colors, and visual appearance.
+- JS for Calculation (conversion of Temp)
 
 ## How to View
 1. Clone repository.
 2. Open index.html in preferred browser.
 
 ## Preview
-![Conversion Website Preview](conversion_screenshot.png)
+![Conversion Website Preview](screenshot.jpg)
 
 ## Author
 [Your Name] - [Your Email] - [Your LinkedIn] - [Your Portfolio]
