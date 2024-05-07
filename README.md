@@ -19,7 +19,7 @@ Develop a website to convert Celsius to Fahrenheit temperatures.
 2. Open index.html in preferred browser.
 
 ## Preview
-![Conversion Website Preview](screenshot.jpg)
+![Conversion Website Preview](screenshot.JPG)
 
 ## Author
 Adithiyaa - adithiyaaaiml2005@gmail.com - www.linkedin.com/in/adithiyaa-s22
